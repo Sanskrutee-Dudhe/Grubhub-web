@@ -1,6 +1,6 @@
 # Restaurant Recommendation Web App
 
-![App Screenshot](https://github.com/Sanskrutee-Dudhe/Grubhub-web/blob/master/src/assets/result.png)
+![App Screenshot](./src/assets/result.png)
 
 ## Description
 
@@ -14,12 +14,6 @@ This web app is designed to help users find restaurants nearby based on their pr
 
 - **Cuisine Preferences:** Users can choose their favorite cuisine type to narrow down the recommendations.
 
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
 
 ## Installation
 
