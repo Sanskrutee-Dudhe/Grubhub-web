@@ -1,6 +1,6 @@
 # Restaurant Recommendation Web App
 
-![App Screenshot](result.png)
+![App Screenshot](images/result.png)
 
 ## Description
 
