@@ -1,6 +1,6 @@
 # Restaurant Recommendation Web App
 
-![App Screenshot](screenshots/screenshot.png)
+![App Screenshot](https://github.com/Sanskrutee-Dudhe/Grubhub-web/blob/master/src/assets/result.png)
 
 ## Description
 
