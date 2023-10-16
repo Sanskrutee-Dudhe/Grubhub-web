@@ -1,10 +1,18 @@
 # Restaurant Recommendation Web App
 
+<br>
+
+
+## 👁️Project Overview
+
+
+This project on New york based food delivery app, which delves into food delivery and restaurant analysis with a focus on Grubhub, a prominent food delivery platform. Our project involved data extraction, comprehensive data analysis, and the creation of an interactive web application. The objective was to design web app to give valuable recommendations to help users find restaurants nearby based on their preferences, including location, price range, and cuisine type. Users can input their preferences, and the app will provide a list of recommended restaurants that match their criteria.
+
 ![App Screenshot](images/result.png)
 
 ## Description
 
-This web app is designed to help users find restaurants nearby based on their preferences, including location, price range, and cuisine type. Users can input their preferences, and the app will provide a list of recommended restaurants that match their criteria.
+
 
 ## Features
 
